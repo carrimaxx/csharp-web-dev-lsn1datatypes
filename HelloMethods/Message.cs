@@ -12,6 +12,10 @@
             {
                 return "Bonjour le monde";
             }
+            else if (lang.Equals("ph"))
+            {
+                return "Kamusta Daigdig";
+            }
             else
             {
                 return "Hello World";
